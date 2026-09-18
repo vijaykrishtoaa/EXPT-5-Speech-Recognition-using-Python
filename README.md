@@ -14,6 +14,7 @@ PC installed with SCILAB.
 
 
 # OUTPUT: 
+<img width="1080" height="681" alt="image" src="https://github.com/user-attachments/assets/2965cb2d-be98-44a5-8d97-2c896a5f590c" />
 
 
 # RESULT: 
